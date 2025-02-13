@@ -12,7 +12,7 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonlb&show_icons=true&theme=dark)
 
 ## 📫 Contato
 📧 Email: alhalisson@gmail.com  
