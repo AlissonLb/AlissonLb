@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Alisson
 
 ## 🚀 Sobre mim
-💻 Desenvolvedor Junior em tecnologias Microsoft e bancos de dados relacionais.
+💻 Desenvolvedor em tecnologias Microsoft e bancos de dados relacionais.
 📚 Sempre aprendendo e explorando novas tecnologias.
 
 ## 🔧 Tecnologias que utilizo
