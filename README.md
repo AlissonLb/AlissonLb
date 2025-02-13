@@ -16,4 +16,4 @@
 
 ## 📫 Contato
 📧 Email: alhalisson@gmail.com  
-🔗[LinkedIn](https://linkedin.com/in/alissonlbrocha/)   
+🔗Linkedin: [LinkedIn](https://linkedin.com/in/alissonlbrocha/)   
