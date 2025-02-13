@@ -16,6 +16,5 @@
 
 
 ## 📫 Contato  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonlbrocha/)  
-## 📫 Contato  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=555555&logoWidth=20)](mailto:alhalisson@gmail.com)
+- LinkedIn: [alissonlbrocha](https://www.linkedin.com/in/alissonlbrocha/)  
+- Gmail: alhalisson@gmail.com
