@@ -15,5 +15,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonlb&show_icons=true&theme=dark)
 
 ## 📫 Contato
-📧 Email: alhalisson@gmail.com  
-🔗Linkedin: [LinkedIn](https://linkedin.com/in/alissonlbrocha/)   
+## 📫 Contato  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alissonlbrocha/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhalisson@gmail.com)
